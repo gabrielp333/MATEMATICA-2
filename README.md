@@ -35,10 +35,5 @@
     <i>Este texto é itálico</i>
     <b>Este texto é negrito</b>
   </main>
-
-
-
-
-
-
 </body>
+</html>
