@@ -1,4 +1,23 @@
 # MATEMATICA-2
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta chraset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title>Document</title>
+    <style>
+      body{
+        background-color:rgb (209,209,209);
+        }
+      nav ul li{
+        display:inline-block;
+        }
+      header{
+        border-bottom: 1px solid;
+        }
+    </style>
+  </head>
 <body>
   <header>
     <nav>
