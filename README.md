@@ -5,7 +5,7 @@
     <meta chraset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="">
     <meta name="viewport" content="width=device-width, intial-scale=1.0">
-    <title>Document</title>
+    <title> Document </title>
     <style>
       body{
         background-color:rgb (209,209,209);
